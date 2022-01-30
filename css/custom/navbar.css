@@ -1,0 +1,24 @@
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 3vw;
+    justify-content: right;
+    margin: 5vw;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+.nav-item>a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+}
+.logo{
+    justify-content: right;
+    position: absolute;
+    left:5vw;
+    height: 5vw;
+    font-size: 30px;
+}
+
