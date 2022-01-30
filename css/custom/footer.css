@@ -1,0 +1,19 @@
+.social{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.social:hover{
+    filter: drop-shadow(1px 1px 1px rgb(240, 238, 241));
+}
+footer{
+    justify-content: center;
+     padding:1%;
+     background-image:linear-gradient(to top, #141414, #333535);
+     color: rgb(255, 255, 255);
+     text-align: center;
+     left: 0%;
+     position: relative;
+     bottom: auto;
+     width: 100%;
+} 

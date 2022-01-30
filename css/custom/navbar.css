@@ -22,3 +22,12 @@ a{
     font-size: 30px;
 }
 
+.logo{
+    width: 200px;
+    height: 70px;
+}
+
+.logo:hover{
+    filter: drop-shadow(3px 3px 7px rgb(0, 0, 0));
+}
+
