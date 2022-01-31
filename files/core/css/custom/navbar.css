@@ -26,8 +26,10 @@ a{
     width: 200px;
     height: 70px;
 }
-
+.nav-item:hover{
+    filter: drop-shadow(1px 1px 1px rgb(17, 17, 17));
+}
 .logo:hover{
-    filter: drop-shadow(3px 3px 7px rgb(0, 0, 0));
+    filter: drop-shadow(3px 3px 10px rgb(28, 29, 29));
 }
 

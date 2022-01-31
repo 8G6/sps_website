@@ -1,4 +1,5 @@
 setTimeout(()=>{
     genEvents()
     genFooter()
-},100)
+},150)
+
